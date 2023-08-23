@@ -4,8 +4,8 @@
 
 <h1>TASK</h1></p>
 <ol>
-    <li>In this homework you should create the same page as shown in the picture (not pixel perfect) - task/design/design.png or task/design/design.pdf by using Grid as much, as possible. All text you can find in file content.txt.</li>
-    <li>In this homework used the font and color below:
+    <li>In this task you should create the same page as shown in the picture (not pixel perfect) - task/design/design.png or task/design/design.pdf by using Grid as much, as possible. All text you can find in file content.txt.</li>
+    <li>In this task used the font and color below:
         <ul>
             <li>Fonts:</li>
             <li>Colors:</li>
