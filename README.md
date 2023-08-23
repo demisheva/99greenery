@@ -16,7 +16,6 @@
             <li>Footer border: #dad9d7</li>
         </ul>
     </li>
-
     <li>Add a shadow on hover on the header menu (Figure 1)</li>
     <li> Add hover action on all gold link using Light gold color (Figure 2)</li>
     <li>The circles should be darker on hover (Figure 3)</li>
